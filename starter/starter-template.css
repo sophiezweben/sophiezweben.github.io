@@ -1,0 +1,140 @@
+body {
+ 	background-image: url(https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0361/6402/0_0_solid_d8eeff_pale_pastel_cyan_shop_thumb.png);
+  	text-align: center;
+}
+
+
+
+h1 {
+	 font-family: 'Source Sans Pro', sans-serif;
+}
+
+p{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+
+/*this is all for contact*/
+.container{
+
+	margin-top: 50px;
+}
+
+.insta{
+	height: 85px;
+	width:85px;
+	margin-right: 700px;
+}
+
+.phone{
+	height: 85px;
+	width: 85;
+	margin-right: 700px;
+}
+
+.needSpace{
+	margin-bottom: 100px;
+}
+
+.needLessSpace{
+	margin-bottom: 30px;
+}
+
+.email{
+	height: 85px;
+	width: 85;
+	margin-right: 700px;
+}
+
+/*this is all for jobs*/
+.stuff{
+	height:300px;
+	width:550px;
+}
+
+.campText{
+	margin-left: 50px;
+	margin-right: 50px;
+	text-align: justify;
+}
+
+.standIn{
+	height:300px;
+	width:550px;
+}
+
+.secondJob{
+	padding-top: 150px;
+}
+
+.secondText{
+	margin-right: 50px;
+	margin-right: 50px;
+	text-align: justify;
+}
+
+/*this is for projects*/
+.infographic{
+	height: 400px;
+	width:400px;
+}
+
+.infoText{
+	text-align: justify;
+	margin-right:100px;
+}
+
+.lead{
+	text-align: justify;
+}
+
+.zine{
+	text-align: justify;
+	margin-left: 50px;
+}
+
+.zinePhoto{
+	height:400px;
+	width: 500px;
+	transform: rotate(90deg);
+}
+
+/*this is for sophie*/
+
+
+ .aboutMe{
+ 	padding-top: 30px;
+ 	text-align: center; 
+ }
+
+ .aboutMeText{
+ 	padding-right: 100px;
+ 	padding-left: 100px;
+ 	padding-top: 30px;
+ 	text-align: left;
+ 	font-size: 20px;
+ }
+
+.profilePic{
+	/*padding-right: : 20%; 
+	padding-left: 20%;
+	padding-bottom: 20%;
+	padding-top:10%; */   
+	padding:20%; 
+	padding-top: 10%;                                                        
+}
+
+.button{
+	background-color: lavender;
+}
+
+/*extracurriculars*/
+.civilLaw{
+	height:400px;
+	width:400px;
+}
+
+
+
+
